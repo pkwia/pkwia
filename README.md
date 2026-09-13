@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/pkwia/pkwia/assets/126484709/f88981cf-6140-4fa6-949f-069be445a829" width="50%" height="25%"/>
+  <img width="498" height="287" alt="317109903-f88981cf-6140-4fa6-949f-069be445a829" src="https://github.com/user-attachments/assets/c1dc75ee-e2f6-4946-b4da-bbdd95da6369" />
 </div>
 <br/>
 
