@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/pkwiatkowski242447/pkwiatkowski242447/assets/126484709/f88981cf-6140-4fa6-949f-069be445a829" width="50%" height="25%"/>
+  <img src="https://github.com/pkwia/pkwia/assets/126484709/f88981cf-6140-4fa6-949f-069be445a829" width="50%" height="25%"/>
 </div>
 <br/>
 
@@ -7,7 +7,7 @@
 <h3 align="center">An ambitious backend developer from Poland</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pkwiatkowski242447&label=Profile%20views&color=0e75b6&style=flat" alt="pkwiatkowski242447" />
+  <img src="https://komarev.com/ghpvc/?username=pkwia&label=Profile%20views&color=0e75b6&style=flat" alt="pkwia" />
 </p>
 
 - 🔭 I’m currently working on **projects for university courses**
@@ -45,7 +45,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pkwiatkowski242447&show_icons=true&locale=en&layout=compact" alt="pkwiatkowski242447" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pkwia&show_icons=true&locale=en&layout=compact" alt="pkwia" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=pkwiatkowski242447&show_icons=true&locale=en" alt="pkwiatkowski242447" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pkwia&show_icons=true&locale=en" alt="pkwia" />
 </p>
