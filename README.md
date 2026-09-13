@@ -45,7 +45,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pkwiatkowski242447&show_icons=true&locale=en&layout=compact" alt="pkwiatkowski242447" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pkwia&show_icons=true&locale=en&layout=compact" alt="pkwia" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=pkwiatkowski242447&show_icons=true&locale=en" alt="pkwiatkowski242447" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pkwia&show_icons=true&locale=en" alt="pkwia" />
 </p>
